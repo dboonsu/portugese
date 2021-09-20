@@ -1,0 +1,131 @@
+Part 1
+---------------------------------------- (overflow)
+Learning Rate: 0.01
+Max Iterations: 25000
+Iterations Taken: 24999
+Convergence Rate: 1e-07
+MSE Test: na
+r2 Test: na
+MSE Training: na
+r2 Training: na
+Weight Coefficients
+y-intercept: na
+studytime: na
+schoolsup: na
+famsup: na
+G1: na
+G2: na
+----------------------------------------
+Learning Rate: 0.001
+Max Iterations: 25000
+Iterations Taken: 24999
+Convergence Rate: 1e-07
+MSE Test: 0.9163951631855257
+r2 Test: 0.7785135847943279
+MSE Training: 2.779482642616786
+r2 Training: 0.8343320480003646
+Weight Coefficients
+y-intercept: -1.0996588862290742
+studytime: -0.2734503554029915
+schoolsup: 0.5039972807762317
+famsup: 0.11676593801600724
+G1: 0.1319135146707828
+G2: 0.9855521865383511
+----------------------------------------
+Learning Rate: 0.001
+Max Iterations: 25000
+Iterations Taken: 2797
+Convergence Rate: 1e-05
+MSE Test: 1.3545661232379178
+r2 Test: 0.7152513009913554
+MSE Training: 2.473458540144514
+r2 Training: 0.8471229212894809
+Weight Coefficients
+y-intercept: -0.21791100437228145
+studytime: -0.2823308305593285
+schoolsup: 0.031693881371476655
+famsup: 0.0022796978656187705
+G1: 0.062067901479348604
+G2: 0.995548654443556
+----------------------------------------
+Learning Rate: 0.004
+Max Iterations: 25000
+Iterations Taken: 5180
+Convergence Rate: 1e-05
+MSE Test: 0.5734650520252383
+r2 Test: 0.8237850859810978
+MSE Training: 3.122128449137905
+r2 Training: 0.8229332555671195
+Weight Coefficients
+y-intercept: -1.213498371622579
+studytime: -0.32571106949039896
+schoolsup: 0.2815905904922096
+famsup: 0.0781296746873143
+G1: 0.16962976521048231
+G2: 0.9642849410879739
+----------------------------------------
+Learning Rate: 0.008
+Max Iterations: 25000
+Iterations Taken: 3665
+Convergence Rate: 1e-05
+MSE Test: 0.5787887701870155
+r2 Test: 0.8257659311818849
+MSE Training: 3.0996248452720048
+r2 Training: 0.8236402612167599
+Weight Coefficients
+y-intercept: -1.3808290674232293
+studytime: -0.31608931590578443
+schoolsup: 0.4112752405007829
+famsup: 0.20160564549946267
+G1: 0.16060655781950428
+G2: 0.9823952366256357
+----------------------------------------
+Learning Rate: 0.008
+Max Iterations: 25000
+Iterations Taken: 1642
+Convergence Rate: 5e-05
+MSE Test: 0.42603692229531553
+r2 Test: 0.866344129164904
+MSE Training: 3.2843255956121027
+r2 Training: 0.8147683411662977
+Weight Coefficients
+y-intercept: -0.9888326008980843
+studytime: -0.30525176961667266
+schoolsup: 0.23371102973314306
+famsup: 0.04228490189501749
+G1: 0.12370316190197342
+G2: 0.9911183649738023
+
+Part 2
+----------------------------------------
+Learning Rate: 0.1
+Max Iterations: 25000
+Iterations Taken: 20
+Convergence Rate: 1e-09
+MSE Test: 7.153832009133557
+r2 Test: 0.6566297081429673
+MSE Training: 3.7979072165444174
+r2 Training: 0.8187250737466328
+Weight Coefficients
+y-intercept: -0.6511568415382837
+studytime: -0.26960662507183525
+schoolsup: 0.14898714001766591
+famsup: 0.1556611991146094
+G1: 0.14049536542844326
+G2: 1.0129071654475557
+----------------------------------------
+Learning Rate: 0.001
+Max Iterations: 25000
+Iterations Taken: 13
+Convergence Rate: 0.0001
+MSE Test: 6.3379373028545
+r2 Test: 0.6957910978795399
+MSE Training: 3.259118525302735
+r2 Training: 0.8444415735719892
+Weight Coefficients
+y-intercept: -0.4698833171387377
+studytime: -0.3226942862105257
+schoolsup: 0.06312147044618409
+famsup: 0.1879828084162186
+G1: 0.09680170945875348
+G2: 1.0018097592020863
